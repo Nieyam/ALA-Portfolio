@@ -1,0 +1,70 @@
+
+body{
+	margin: 0%;
+	background-image: url(images/nieyam.jpg);
+	background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+#ik {
+	margin-left: 3%;
+	margin-top:30px;
+}
+
+#copyright {
+	text-align: center;
+}
+
+#contact {
+	width: 17%;
+	margin-left: 22px;
+	border: 1px solid black;
+	margin-top: 2%;
+}
+
+#cv {
+	text-align: center;
+}
+
+#mbo {
+	text-align: center;
+}
+
+#study {
+	text-align: left;
+	margin-left: 27%;
+}
+
+#mijngegevens {
+	position: center;
+	margin-left: 22px;
+	border: 1px solid black;
+	width: 20%;
+}
+
+#info {
+	text-align: center;
+}
